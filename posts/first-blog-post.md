@@ -1,7 +1,7 @@
 ---
-title: Week 1 
+title: Week 1
 published_at: 2022-11-04
-snippet: Introfuction to my video  
+snippet: Introduction to my video  
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -18,7 +18,7 @@ I am involved in the Ballroom queer scene here in Naarm and a part of the House 
 
 I find the difference between sami and persia quite interesting so i wanted to theme my video around the different sides while also showing my life, family and friends. 
 
-`[heres an introduction to my Ballroom family](https://www.starobserver.com.au/artsentertainment/my-cnt-so-lethal-the-house-of-diesel-naarms-newest-ballroom-family-have-arrived/228521)`
+`[My ballroon family](https://www.starobserver.com.au/artsentertainment/my-cnt-so-lethal-the-house-of-diesel-naarms-newest-ballroom-family-have-arrived/228521)`
 
 
 
