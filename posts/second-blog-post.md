@@ -19,5 +19,8 @@ A key moment I've identified in my sequence is centred around our training, what
 
 3. Using a J-cut technique, I want to go from our videos training the choreography with the audio of the crowd cheering/screaming and then cut to the live show that is matching that audio. ​I think this will enhance the story and show part of the process of my life and the world I'm building.
 
+4. Used jazz music from Freesound for the ‘daytime’ segment to give a calming feel. 
+https://freesound.org/people/Migfus20/sounds/723287/ 
+
 
 
