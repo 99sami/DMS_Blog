@@ -1,20 +1,24 @@
 ---
-title: DMS 1 - SAMI
+title: Week 1 
 published_at: 2022-11-04
-snippet: Week 1 
+snippet: Introfuction to my video  
 disable_html_sanitization: true
 allow_math: true
 ---
 
-#  For my self portrait video I am to portray the themes of duality and growth. 
+#  THEMES
+
+For my self portrait video I am to portray the themes of duality and growth. 
 When I think about myself there are two versions that exist in me;
-There is Sami, who is very relaxed, introverted and quiet. If not at work or uni his day mainly looks like going on walks, shopping, or being at a cafe enjoying his own company or occasionally catching up with a friend. Mornings/early afternoons are his favourite time of the day. 
 
-Then there is Persia, who is my personality when I'm on stage performing or when I have to step up. 
-I am involved in the Ballroom queer scene here in Naarm and a part of the House of DIESEL who are my chosen family. We do a lot of work for the scene here holding balls, vogue nights, performances, workshops, community sessions etc. This side of me is very outgoing and when I'm performing I completely tap into her essence. 
+**There is Sami,** who is very relaxed, introverted and quiet. If not at work or uni his day mainly looks like going on walks, shopping, or being at a cafe enjoying his own company or occasionally catching up with a friend. Mornings/early afternoons are his favourite time of the day. 
 
-I find the difference between sami and persia quite interesting so i wanted to theme my video around the different sides while showing my life, family and friends. 
+**Then there is Persia,** who is my personality when I'm on stage performing or when I have to step up. 
+I am involved in the Ballroom queer scene here in Naarm and a part of the House of DIESEL who are my chosen family. We do a lot of work for the scene here holding balls, vogue nights, performances, workshops, community sessions etc. This side of me is very outgoing, usually for nightlife and when I'm performing I completely tap into her essence. 
 
+I find the difference between sami and persia quite interesting so i wanted to theme my video around the different sides while also showing my life, family and friends. 
+
+`[heres an introduction to my Ballroom family](https://www.starobserver.com.au/artsentertainment/my-cnt-so-lethal-the-house-of-diesel-naarms-newest-ballroom-family-have-arrived/228521)`
 
 
 
@@ -23,7 +27,7 @@ I find the difference between sami and persia quite interesting so i wanted to t
 
 ![a drippy lemon](logo.svg)
 
-^ images are written like this: `![description](file_path/file_storyboards.png)`
+^ images are written like this: `![storyboard](file_path/file_storyboards.png)`
 
 ## This is h2
 
@@ -33,7 +37,7 @@ I find the difference between sami and persia quite interesting so i wanted to t
 
 **This is bold.**
 
-Hyperlinks can be written like this: `[text](https://URL)`
+Hyperlinks can be written like this: 
 
 You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
