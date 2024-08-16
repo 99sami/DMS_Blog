@@ -1,5 +1,5 @@
 ---
-title: This is a blog post!
+title: DMS 1 - SAMI
 published_at: 2022-11-04
 snippet: An example of a blog post.
 disable_html_sanitization: true
@@ -7,6 +7,15 @@ allow_math: true
 ---
 
 # This is h1
+
+# H1  For my self portrait video I am to portray the themes of duality and growth. 
+When I think about myself there are two versions that exist in me;
+There is Sami, who is very relaxed, introverted and quiet. If not at work or uni his day mainly looks like going on walks, shopping, or being at a cafe enjoying his own company or occasionally catching up with a friend. Mornings/early afternoons are his favourite time of the day. 
+Then there is Persia, who is my personality when I'm on stage. 
+
+
+
+
 
 ![a drippy lemon](logo.svg)
 
