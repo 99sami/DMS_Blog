@@ -13,6 +13,9 @@ There is Sami, who is very relaxed, introverted and quiet. If not at work or uni
 Then there is Persia, who is my personality when I'm on stage performing or when I have to step up. 
 I am involved in the Ballroom queer scene here in Naarm and a part of the House of DIESEL who are my chosen family. We do a lot of work for the scene here holding balls, vogue nights, performances, workshops, community sessions etc. This side of me is very outgoing and when I'm performing I completely tap into her essence. 
 
+I find the difference between sami and persia quite interesting so i wanted to theme my video around the different sides while showing my life, family and friends. 
+
+
 
 
 
@@ -20,7 +23,7 @@ I am involved in the Ballroom queer scene here in Naarm and a part of the House 
 
 ![a drippy lemon](logo.svg)
 
-^ images are written like this: `![description](file_path/file_name.png)`
+^ images are written like this: `![description](file_path/file_storyboards.png)`
 
 ## This is h2
 
