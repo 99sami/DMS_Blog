@@ -18,7 +18,7 @@ I am involved in the Ballroom queer scene here in Naarm and a part of the House 
 
 I find the difference between sami and persia quite interesting so i wanted to theme my video around the different sides while also showing my life, family and friends. 
 
-`[My ballroon family](https://www.starobserver.com.au/artsentertainment/my-cnt-so-lethal-the-house-of-diesel-naarms-newest-ballroom-family-have-arrived/228521.com)`
+    `[title](https://www.starobserver.com.au/artsentertainment/my-cnt-so-lethal-the-house-of-diesel-naarms-newest-ballroom-family-have-arrived/228521)`
 
 
 
