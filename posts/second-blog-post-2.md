@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-![storyboard](storyboards.png)
+![storyboard][storyboard.png]
 
 # The emotional tone of the video
 
@@ -29,3 +29,6 @@ I want the pace of the video to start soft but give viewers a tease of the pace 
 
 
 
+
+
+[storyboard.png]: storyboards.png
