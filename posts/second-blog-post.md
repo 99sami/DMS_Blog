@@ -22,6 +22,9 @@ A key moment I've identified in my sequence is centred around our training, what
 4. Used jazz music from Freesound for the ‘daytime’ segment to give a calming feel. 
 https://freesound.org/people/Migfus20/sounds/723287/ 
 
+Refrence:
+Migfus20 (2024) Relaxing Jazz Music (loop) [Mp3], Freesound, accessed 12 August 2024. https://freesound.org/people/Migfus20/sounds/723287/ 
+
 5. Reverse the audio to give a remix feel and match the revered footage - playing around with transitions and match cut techqniches both visually and sonically. 
 
 

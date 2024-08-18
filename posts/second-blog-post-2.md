@@ -30,5 +30,4 @@ I want the pace of the video to start soft but give viewers a tease of the pace 
 
 
 
-
 [storyboard.png]: storyboards.png
