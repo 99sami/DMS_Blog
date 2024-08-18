@@ -28,4 +28,4 @@ Migfus20 (2024) Relaxing Jazz Music (loop) [Mp3], Freesound, accessed 12 August 
 5. Reverse the audio to give a remix feel and match the revered footage - playing around with transitions and match cut techqniches both visually and sonically. 
 
 
-
+![reverse audio](image.png)
