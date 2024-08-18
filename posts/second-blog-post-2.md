@@ -6,6 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
+`![storyboard](storyboards.png)`
 
 # The emotional tone of the video
 
@@ -20,7 +21,6 @@ I want the tone to be wholesome, inspiring and real/authentic - showing all side
 ## The relation / connection 
 
 I want people to see the connection between having two different modes of being. As humans were complex being by nature and i find that to be a beautiful quiality to people and life. I hoped to connect the two worls that live inside me and evoke the same feeling in others watching the video. 
-
 
 
 ### The rhythm / pace 
