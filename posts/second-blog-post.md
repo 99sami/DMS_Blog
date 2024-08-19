@@ -11,7 +11,7 @@ allow_math: true
 
 A key moment I've identified in my sequence is centred around our training, what goes on behind the scenes and the live performances. Me and my house debuted this year and we are still in the early stages of our journey so a lot of work and time is being poured into practising building ourselves up. I foreshadow this part by opening with us practasing but then going into my life outside ballroom. Later when the video switches it connects back to the first scene. 
 
-![audioedit](audioedit.jpg)
+![audioedit](audio_edit.jpg)
 
 ​My plan: 
 
