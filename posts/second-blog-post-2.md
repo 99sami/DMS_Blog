@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-![storyboard][storyboard.png]
+![storyboard][storyboard.jpeg]
 
 # The emotional tone of the video
 
