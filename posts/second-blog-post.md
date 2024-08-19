@@ -11,9 +11,13 @@ allow_math: true
 
 A key moment I've identified in my sequence is centred around our training, what goes on behind the scenes and the live performances. Me and my house debuted this year and we are still in the early stages of our journey so a lot of work and time is being poured into practising building ourselves up. I foreshadow this part by opening with us practasing but then going into my life outside ballroom. Later when the video switches it connects back to the first scene. 
 
+![audioedit](audioedit.jpg)
+
 ​My plan: 
 
 1. Use a match cut technique to connect rehearsals to main stage  
+
+![matchcut](visual_edit.jpg)
 
 2. Crossfade the smooth jazz (represents sami) to high energy beats (represents persia)
 
@@ -28,6 +32,6 @@ Migfus20 (2024) Relaxing Jazz Music (loop) [Mp3], Freesound, accessed 12 August 
 5. Reverse the audio to give a remix feel and match the revered footage - playing around with transitions and match cut techqniches both visually and sonically. 
 
 
-![reverse audio](image.jpg)
+![reverse audio](reverse_audio.jpg)
 
 ![audio edit](image.jpg)
