@@ -30,4 +30,4 @@ Migfus20 (2024) Relaxing Jazz Music (loop) [Mp3], Freesound, accessed 12 August 
 
 ![reverse audio](image.jpg)
 
-![alt text](audioedit.jpg)
+![audio edit](image.jpg)
