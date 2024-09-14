@@ -8,7 +8,7 @@ allow_math: true
 
 ![storyboard](storyboards.jpg)
 
-# The emotional tone of the video
+# The emotional tone of the video. 
 
 In my video I've used a mix of match cuts, and  L/J cuts and crossfades for the audio to connect moments like the rehearsals to stage performances. I wanted to capture the emotional tone of dream big because everything starts with an idea (like the videos of us training and experimenting choreography to perform it at Fed Square). You can make your goals and dreams happen. 
 
