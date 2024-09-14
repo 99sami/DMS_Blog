@@ -24,7 +24,11 @@ As you can see here i was really struggling with getting the shield and piggyban
 
 ![shield1](shield1.png)
 
+![pigmiddle](pigmiddle.png)
+
 After so many attempts i finally got it just how i wanted it. 
 
 ![pigfinal](pigfinal.png)
+
+See how many anchor points there ended up being, being a lot more intentional with each one allowed me to sustain the shape and stop it from glitching out. 
 
