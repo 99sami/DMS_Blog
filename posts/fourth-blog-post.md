@@ -12,5 +12,5 @@ Today we learnt about design thinking theory and tools to create designs for use
 
 Using only 4 black squares per thumbnail box, we were challenged to produce a range of compositions that express the word below. I found this quite challanging usuing the shape of a suqare and it really forces you to try new arrangments and keep on digging deeper. You really only have so much to work with so coming up with so many versions was super intresting way to push creativity and language.
 
-![matchcut](squares1.jpg) 
+![blacksquares](squares1.png)  
 
