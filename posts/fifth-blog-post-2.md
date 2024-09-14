@@ -67,7 +67,6 @@ So my final 18 looked something like this:
 
 
 
-**work along the way** 
 
 ![icon2](icon2.jpeg)
 
