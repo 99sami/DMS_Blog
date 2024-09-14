@@ -46,8 +46,18 @@ The options for concepts were:
 Initially when thinking about the assignment i was tossing up between **growth**, **calm** and **community**. 
 I wanted my website to be mental health focused as this can relate to all three concepts, and upon brainstomring i had the idea to base my website and concpet off a *mental health retreat / get away program that allows people to go out into nature for a few weeks, connect with people, eat healthy and exercise, engage in community sessions, therapy etc etc*.  
 
+The platform of engagment in mind would be a computer, phone or ipad and aimed for a demogrpahic of people between 30-60 years old. 
+
 ![icons](icon1.jpeg) 
 
-I decided to choose  *growth*. 
+I decided to choose *growth*. 
+From my understanding 'mid life crises' is common around that age and its due to people feeling stagnent in their life and wanting a big and sudden shift. This retreat program allows people to reset their mental + physical space to regain a new understanding of life and restore balance. 
+
+![inspo2](inspo2.png)
+
+![inspo1](inspo1.png)
+
+**inspiration for my assignment** 
+
 
 
