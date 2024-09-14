@@ -38,36 +38,36 @@ Adding titles/statments helped solidify my choices for the pairs and made the pa
 
 So my final 18 looked something like this:
 
-It's effective, find community and stay in touch with new friends. 
+**It's effective, find community and stay in touch with new friends.** 
 *hands - phone*
 
-We offer mental health support. 
+**We offer mental health support.** 
 *mind - heart* 
 
-Explore wellness and mental health topics, guides and practises. 
+**Explore wellness and mental health topics, guides and practises.** 
 *book - magnifying glass* 
 
-It's professional with fully licensed psychologists. 
+**It's professional with fully licensed psychologists.** 
 *clipboard - tick* 
 
-We offer affordable rates and fees. 
+**We offer affordable rates and fees.** 
 *piggybank - coin* 
 
-Relaxing and rejuvinating atmospheres in green/blue spaces. 
+**Relaxing and rejuvinating atmospheres in green/blue spaces.** 
 *meditate - flower* 
 
-Find a centre near you. 
+**Find a centre near you.** 
 *house - pin* 
 
-Create healthy, long lasting habbits.
+**Create healthy, long lasting habbits.**
 *apple - shield* 
 
-Effective detoxification and growth. 
+**Effective detoxification and growth.** 
 *raindrop - plant* 
 
 
 
-**work along the way* 
+**work along the way** 
 
 ![icon2](icon2.jpeg)
 
@@ -75,7 +75,7 @@ Effective detoxification and growth.
 
 ![meditate](meditate.png)
 
-and heres my first draft! 
+**and heres my first draft!** 
 
 ![draft1](draft1.png)
 
