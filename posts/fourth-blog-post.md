@@ -25,4 +25,29 @@ Using only 4 black squares per thumbnail box, we were challenged to produce a ra
 ![blacksquarefinal](final1.png) 
 
 
+## Assignment 2 Brainstomring 
+
+This assignment we need to create a suite of 9 responsive graphic icons that have a relating image/icon surrounding a concept for webpage design; 18 icons in total. 
+
+The options for concepts were: 
+- Growth
+- Home
+- Movement
+- Climate
+- Community
+- Future
+- Empty
+- Legacy
+- Calm
+- Memory
+- System
+- Dream
+
+Initially when thinking about the assignment i was tossing up between **growth**, **calm** and **community**. 
+I wanted my website to be mental health focused as this can relate to all three concepts, and upon brainstomring i had the idea to base my website and concpet off a *mental health retreat / get away program that allows people to go out into nature for a few weeks, connect with people, eat healthy and exercise, engage in community sessions, therapy etc etc*.  
+
+![icons](icon1.jpeg) 
+
+I decided to choose  *growth*. 
+
 
