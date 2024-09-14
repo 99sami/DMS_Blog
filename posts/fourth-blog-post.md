@@ -44,7 +44,7 @@ The options for concepts were:
 - Dream
 
 Initially when thinking about the assignment i was tossing up between **growth**, **calm** and **community**. 
-I wanted my website to be mental health focused as this can relate to all three concepts, and upon brainstomring i had the idea to base my website and concpet off a *mental health retreat / get away program that allows people to go out into nature for a few weeks, connect with people, eat healthy and exercise, engage in community sessions, therapy etc etc*.  
+I wanted my website to be mental health focused as this can relate to all three concepts, and upon brainstomring i had the idea to base my website and concpet off a *'mental health retreat / get away program that allows people to go out into nature for a few weeks, connect with people, eat healthy and exercise, engage in community sessions, therapy etc etc'*.  
 
 The platform of engagment in mind would be a computer, phone or ipad and aimed for a demogrpahic of people between 30-60 years old. 
 
@@ -57,7 +57,7 @@ From my understanding 'mid life crises' is common around that age and its due to
 
 ![inspo1](inspo1.png)
 
-**inspiration for my assignment** 
+**some inspiration for my assignment** 
 
 
 
