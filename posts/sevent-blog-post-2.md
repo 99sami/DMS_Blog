@@ -36,7 +36,7 @@ Calm, clear skies or subtle fog that creates a sense of mystery about what is to
 ![b2](b2.png)
 
 
-![b2](b2.png)
+![b2](b1_2.png)
 
 
 ![b2](b12.png)
@@ -72,7 +72,7 @@ The second stage can signify a period of isolation and confinement. The terrain 
 
 
 Colors shift to more saturated dark tones, symbolizing the weight of emotions or experiences.
-Ceilings, borders or gates might appear, creating a sense of limit and restriction.
+Ceilings, borders or gates might appear, creating a sense of limit and restriction. 
 The structures and environment could become more closed off and personal/intimate reflecting the development of personal perspectives.
 This phase captures the internal conflict and growth—where experiences, decisions, and struggles begin to define us.
 
@@ -80,16 +80,17 @@ This phase captures the internal conflict and growth—where experiences, decisi
 **Symbolic features:**
 
 
-Dome to symbolise lockdown restrictions and 5/10 km radius laws we had.
+Locked in: a dome to symbolise lockdown restrictions and 5/10 km radius laws we had. I wanted to have the lighting inside almost pitch black, but i couldnt find a dome that allowed these changes to the light/background and if i changed the sky, it will effect the whole project. I decided to go with one that had these big iron bars similar to a cage.  
 
 
-Inside the dome a simple mattress on the floor to symbolise me being in my room, and the feeling of being by myself. I felt so small within a big mess. My room was my safe space.
+Isolation/solitude: a single mattress on the floor to symbolise me being in my room, and the feeling of being by myself. I felt so small within a big mess. My room was my safe space where i found solitude. A persian rug underneath to symbolise and foreshadow *'Persia'* emerging. 
+
+Cocoon: this is me, the catipillar in the stage of going within and protecting myself, hibernating, transforming.
 
 
-Big cocoon to smybolise the stage of going within and protecting myself, hibernating, transforming.
+Rubix cube: to symbolise uncertainty of outcomes during these times.
 
 
-Rubix cube to represent uncertainty of outcomes.
  
  ![b2](id2.png)
 
@@ -97,24 +98,35 @@ Rubix cube to represent uncertainty of outcomes.
 
 
 
-**Stage 3: Emerging – freedom & idenity**
+**Stage 3: Emerging – freedom & identity**
 
-In the final stage, the world opens up into a fully realized and harmonious terrain of finding ballroom, finding myself and the excitment of entering this phase of life. Representing a sense of self descovery and belonging. The environment here can be rich in visuals, sound and energy, a celebration of my identity that has fully taken shape.
+
+In the final stage, the world opens up into a fully realized and harmonious terrain of finding ballroom, finding myself and the excitement of entering this phase of life. Representing a sense of self discovery and belonging. The environment here can be rich in visuals, sound and energy, a celebration of my identity that has fully taken shape.
+
 
 **Visual Elements:**
 
+
 As you exit the dome you are taken into a big stage where a ball is happening!
-A blend of vibrant and subtle colors that evoke a excitment and belonging. 
+A blend of vibrant and subtle colors that evoke a excitement and belonging.
 Natural landscapes might blend with structures and stages symbolizing both rootedness and forward momentum.
-Clear skies. 
+Clear skies.
 
 
-**Symbolism:**
+![b2](id3.png)
 
-The big butterflies in the sky represent me emerging from my cocoon (my room) and taking flight. 
-The stage symbolises ballroom and the journey i take as a peformer.
-Big crowds and lights. 
-The houses on the hills above, looking down at all the excitment symbolises my chosen family and how we built a home together through ballroom and the journey of self-disovery. 
+![b2](id32.png)
 
+
+**Symbolic features:**
+
+
+The big butterflies: high up taking flight in the skies, it represents me emerging from my cocoon (my room) and spreading my wings with others.
+
+The stage: symbolises ballroom and the journey I take as a performer. The person on the stage is Persia
+
+Ballroom: big crowds and lights, the audio from a live ball. 
+
+Chosen family: the houses on the hills above symbolise family, my DIESEL family / the balroom community. We built a home together through ballroom and the journey of self-discovery.
 
 
