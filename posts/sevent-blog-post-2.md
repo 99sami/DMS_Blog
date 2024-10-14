@@ -36,47 +36,64 @@ Calm, clear skies or subtle fog that creates a sense of mystery about what is to
 ![b2](b2.png)
 
 
-![b2](b_2.png)
+![b2](b2.png)
 
 
 ![b2](b12.png)
 
 
-**Symbolism:**
+**Symbolic features:**
 
 
-Entry space like country/outback to symboliSe the change in landscape when entering the city.
+Entry: a space like country/outback to symboliSe the change in landscape when entering the city.
 Airplanes upon entry to symbolize travel and the change in area.
 
 
-Big billboard to welcome you.
+Billboard: a big to welcome you.
 
 
-Urban landscape symbolising melbourne and iconic melbourne pieces like trams and the ferris wheel.
-Caterpillar symbolises me on this journey, small, fresh and ready to grow.
+Urban landscape: a city square area that resembles melbourne  and iconic melbourne things like trams and the ferris wheel.
+
+
+Caterpillar: the catipilar symbolises me on this journey, small, fresh and ready to grow. it will apear in the 3 stages. 
+
+![b2](id1.png)
+
+![b2](id12.png)
 
 
 
 
-**Stage 2: Lockdown – Isolation** 
-The second stage can signify a period of isolation and confinment. The terrain here would become more closed off representing the complexities of lockdown laws and regulations. As travelers move forward, they encounter a change in dynamics. 
+**Stage 2: Lockdown – Isolation**
+The second stage can signify a period of isolation and confinement. The terrain here would become more closed off representing the complexities of lockdown laws and regulations. As travelers move forward, they encounter a change in dynamics.
+
 
 **Visual Elements:**
 
+
 Colors shift to more saturated dark tones, symbolizing the weight of emotions or experiences.
-Cellings, borders or gates might appear, creating a sense of limit and restriction. 
-The structures and environment could become more closed off and personal/initmate reflecting the development of personal perspectives.
+Ceilings, borders or gates might appear, creating a sense of limit and restriction.
+The structures and environment could become more closed off and personal/intimate reflecting the development of personal perspectives.
 This phase captures the internal conflict and growth—where experiences, decisions, and struggles begin to define us.
 
-**Symbolism:** 
 
-Dome to symbolise lockdown restrictions and 5/10km radius laws we had. 
+**Symbolic features:**
 
-Inside the dome a simple matress on the floor to symbolise me being in my room, and the feeling of being by myself. I felt so small within a big mess. My room was my safe space. 
 
-Big cocoon to smybolise the stage of going within and protecting myself, hibernating, transforming. 
+Dome to symbolise lockdown restrictions and 5/10 km radius laws we had.
 
-Rubix cube to represent uncertantiy of outcomes. 
+
+Inside the dome a simple mattress on the floor to symbolise me being in my room, and the feeling of being by myself. I felt so small within a big mess. My room was my safe space.
+
+
+Big cocoon to smybolise the stage of going within and protecting myself, hibernating, transforming.
+
+
+Rubix cube to represent uncertainty of outcomes.
+ 
+ ![b2](id2.png)
+
+ ![b2](id22.png)
 
 
 
