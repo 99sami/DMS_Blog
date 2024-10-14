@@ -25,6 +25,8 @@ Emotions:
 **Stage 1: The Beginning – New City**
 The first stage could represent the early phases of moving to melbourne. The terrain here would be simple, perhaps even minimalist, but evoke the feeling of a small person about to explore a big city, with new big opportunities. Think of rolling hills, city landscapes, or structures that feel present but incomplete.
 
+![b2](sketch.png)
+
 
 **Visual Elements:**
 
