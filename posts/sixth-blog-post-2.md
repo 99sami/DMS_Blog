@@ -1,6 +1,6 @@
 ---
 title: Week 6, Session 2
-published_at: 2022-11-04
+published_at: 2024-09-13
 snippet: Final Assignment 
 disable_html_sanitization: true
 allow_math: true

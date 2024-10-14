@@ -1,6 +1,6 @@
 ---
 title: Week 5, Session 1
-published_at: 2022-11-04
+published_at: 2024-08-26
 snippet: Pen tool training and colourways  
 disable_html_sanitization: true
 allow_math: true

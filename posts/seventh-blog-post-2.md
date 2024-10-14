@@ -1,6 +1,6 @@
 ---
 title: Week 7, Session 2
-published_at: 2022-11-04
+published_at: 2024-09-20
 snippet: Unity and Spacial Composition
 disable_html_sanitization: true
 allow_math: true
@@ -109,9 +109,9 @@ Natural landscapes might blend with structures and stages symbolizing both roote
 Clear skies.
 
 
-![b2](id3.png)
-
 ![b2](id32.png)
+
+![b2](id3.png)
 
 
 **Symbolic features:**

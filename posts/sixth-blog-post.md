@@ -1,6 +1,6 @@
 ---
 title: Week 6, Session 1
-published_at: 2022-11-04
+published_at: 2024-09-09
 snippet: Sound & HTML
 disable_html_sanitization: true
 allow_math: true
