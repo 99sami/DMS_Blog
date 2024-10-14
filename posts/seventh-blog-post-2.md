@@ -18,7 +18,7 @@ So 3 stages:
 Emotions:
 *Excitement, Isolation, Freedom*
 
-
+---
 
 **Stage 1: The Beginning – New City**
 The first stage could represent the early phases of moving to melbourne. The terrain here would be simple, perhaps even minimalist, but evoke the feeling of a small person about to explore a big city, with new big opportunities. Think of rolling hills, city landscapes, or structures that feel present but incomplete.
@@ -59,6 +59,7 @@ Caterpillar: the catipilar symbolises me on this journey, small, fresh and ready
 
 ![b2](id12.png)
 
+---
 
 **Stage 2: Lockdown – Isolation**
 The second stage can signify a period of isolation and confinement. The terrain here would become more closed off representing the complexities of lockdown laws and regulations. As travelers move forward, they encounter a change in dynamics.
@@ -92,7 +93,7 @@ Rubix cube: to symbolise uncertainty of outcomes during these times.
 
  ![b2](id22.png)
 
-
+---
 
 **Stage 3: Emerging – freedom & identity**
 
