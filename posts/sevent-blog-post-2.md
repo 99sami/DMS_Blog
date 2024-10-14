@@ -15,7 +15,7 @@ I decided to do my layout as a rectangle, inside a grid of 9 squares. As you tra
 So 3 stages:
 *Move, Lockdown, Emerge*
 
-
+dd
 Emotions:
 *Excitement, Isolation, Freedom*
 
