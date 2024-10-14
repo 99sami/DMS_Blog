@@ -8,34 +8,47 @@ allow_math: true
 
 # Navigation
 
-I decided to do my layout as a rectangle, inside a grid of 9 squares. As you travel up a row, you turn a corner and the stage changes. 
 
-So 3 stages: 
-Move, Lockdown, Emerge 
+I decided to do my layout as a rectangle, inside a grid of 9 squares. As you travel up a row, you turn a corner and the stage changes.
 
-Emotions: 
-Excitment, Isolation, Freedom
 
-**Stage 1: The Beginning – New City** 
+So 3 stages:
+*Move, Lockdown, Emerge*
+
+
+Emotions:
+*Excitement, Isolation, Freedom*
+
+
+
+
+**Stage 1: The Beginning – New City**
 The first stage could represent the early phases of moving to melbourne. The terrain here would be simple, perhaps even minimalist, but evoke the feeling of a small person about to explore a big city, with new big opportunities. Think of rolling hills, city landscapes, or structures that feel present but incomplete.
 
-**Visual Elements:** 
+
+**Visual Elements:**
+
 
 Neutral colors like soft earth tones to suggest potential and openness.
 Basic geometric shapes or primitive structures, representing the foundation of one’s core values or beginnings.
 Calm, clear skies or subtle fog that creates a sense of mystery about what is to come.
 
+![b2](b2.png)
 
-**Symbolism:** 
 
-Entry space like country/outback to symbolise the change in landscape when entering the city. 
-Airplanes upon entry to symbolize travel and the change in area. 
+**Symbolism:**
 
-Big bilboard to welcome you. 
 
-Urban landscape symbolising melbourne and iconic melbourne pieces like trams and the ferris wheel. 
+Entry space like country/outback to symboliSe the change in landscape when entering the city.
+Airplanes upon entry to symbolize travel and the change in area.
 
-Catipillar symbolises me on this journey, small fresh and ready to grow.
+
+Big billboard to welcome you.
+
+
+Urban landscape symbolising melbourne and iconic melbourne pieces like trams and the ferris wheel.
+Caterpillar symbolises me on this journey, small, fresh and ready to grow.
+
 
 
 
