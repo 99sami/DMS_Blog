@@ -11,6 +11,8 @@ allow_math: true
 
 I decided to do my layout as a rectangle, inside a grid of 9 squares. As you travel up a row, you turn a corner and the stage changes.
 
+![b2](grid.png)
+
 
 So 3 stages:
 *Move, Lockdown, Emerge*
