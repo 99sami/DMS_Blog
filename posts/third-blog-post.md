@@ -1,6 +1,6 @@
 ---
 title: Week 3
-published_at: 2022-11-04
+published_at: 2024-08-12
 snippet: Drafting my project 
 disable_html_sanitization: true
 allow_math: true

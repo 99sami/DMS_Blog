@@ -27,6 +27,4 @@ https://www.youtube.com/watch?v=fc6U0StkC3c
 
 
 3. - a live audio from one of my favorite balls in New York, high energy, surrounded by community, strong crowd engagement and amazing vogue.
-
-
 https://www.youtube.com/watch?v=Z23oSRdSsXo 

@@ -1,6 +1,6 @@
 ---
 title: Week 4, Session 2
-published_at: 2022-11-04
+published_at: 2024-08-23
 snippet: Icon developing and sketching 
 disable_html_sanitization: true
 allow_math: true

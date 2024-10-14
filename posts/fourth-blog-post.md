@@ -1,6 +1,6 @@
 ---
 title: Week 4, Session 1
-published_at: 14-09-24
+published_at: 2024-08-19
 snippet: Square activity / Brainstomring for A2
 disable_html_sanitization: true
 allow_math: true

@@ -1,6 +1,6 @@
 ---
 title: Week 2, Session 1
-published_at: 2022-11-04
+published_at: 2024-08-12
 snippet: Storyboarding and Audio
 disable_html_sanitization: true
 allow_math: true

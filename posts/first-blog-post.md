@@ -1,6 +1,6 @@
 ---
 title: Week 1
-published_at: 2022-11-04
+published_at: 2024-08-05
 snippet: Introduction to my video  
 disable_html_sanitization: true
 allow_math: true
