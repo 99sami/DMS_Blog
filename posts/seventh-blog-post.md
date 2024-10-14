@@ -1,5 +1,5 @@
 ---
-title: Week 7, Session 1
+title: Week 7 - Session 1
 published_at: 2024-09-16
 snippet: Unity and Spacial Composition
 disable_html_sanitization: true

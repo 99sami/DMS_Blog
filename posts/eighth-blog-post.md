@@ -1,5 +1,5 @@
 ---
-title: Week 8, Session 2
+title: Week 8 - Session 2
 published_at: 2024-09-23
 snippet: Unity and Sound
 disable_html_sanitization: true

@@ -1,5 +1,5 @@
 ---
-title: Week 5, Session 1
+title: Week 5 - Session 1
 published_at: 2024-08-26
 snippet: Pen tool training and colourways  
 disable_html_sanitization: true

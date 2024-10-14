@@ -1,5 +1,5 @@
 ---
-title: Week 5, Session 2
+title: Week 5 - Session 2
 published_at: 2024-08-30
 snippet: Refining icons 
 disable_html_sanitization: true
