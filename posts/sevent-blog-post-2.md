@@ -15,10 +15,8 @@ I decided to do my layout as a rectangle, inside a grid of 9 squares. As you tra
 So 3 stages:
 *Move, Lockdown, Emerge*
 
-dd
 Emotions:
 *Excitement, Isolation, Freedom*
-
 
 
 
@@ -60,8 +58,6 @@ Caterpillar: the catipilar symbolises me on this journey, small, fresh and ready
 ![b2](id1.png)
 
 ![b2](id12.png)
-
-
 
 
 **Stage 2: Lockdown – Isolation**

@@ -15,6 +15,6 @@ I moved to melbourne in January 2020, just before we entered a pandemic and COVI
 ![a31](a31.jpeg)
 
 
-Each stage can visually and thematically reflect different phases of this and the emotions, or personal experiences. Here’s an exploration of how i became a buttterfly. 
+Each stage can visually and thematically reflect different phases of this and the emotions, or personal experiences. Here’s an exploration of how i became a buttterfly. PS. Navigating the city might be confusing, as it was for me when I first moved here, however just follow the yellow brick road and you’ll be on the right path. 
 
 ![a32](a32.jpeg)
