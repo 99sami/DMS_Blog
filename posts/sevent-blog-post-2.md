@@ -36,6 +36,12 @@ Calm, clear skies or subtle fog that creates a sense of mystery about what is to
 ![b2](b2.png)
 
 
+![b2](b_2.png)
+
+
+![b2](b12.png)
+
+
 **Symbolism:**
 
 
