@@ -82,21 +82,46 @@ The apple to shield is meant to encourage if you eat healthy you've become healt
 **How did you translate the prompt that you chose from an abstract idea to a set of
 concrete visual designs?** 
 
+I started by grounding a concept and basing it off that and then sourced inspiration from similar concepts and talking to peers bouncing ideas around. Once i had a clear vision i used design theory and thought what story am i communicating and who for to create the bases of my visual designs. 
 
-Assignment 3 - Virtual Environment
-• How important was a working prototype to your design process? What did it offer that
-process?
-• How did your experience of designing and producing a three-dimensional environment
+
+**Assignment 3 - Virtual Environment**
+--- 
+**How important was a working prototype to your design process? What did it offer that
+process?** 
+
+Prototypes are so important for 3D as its one thing designing and building the world but actually playing it to an effective manner is a whole different stage of the work that requires you to constantly add things, play and test and then go back to edit it. 
+
+**How did your experience of designing and producing a three-dimensional environment
 differ from your experience of designing and producing a project in two-dimensional
-media?
-• What was the role of the virtual camera in your project, and how was it similar to and
-different from the role of the camera in Assignment 1?
-• How did you use sound in your project, and how was this similar to and different from your
-use of sound in Assignments 1 and 2?
-• How did you unify the different elements of your virtual environment under a certain theme
-or concept? How did your theme or concept evolve over the project’s development?
-• What did you discover through the process of play testing that you wouldn’t have
-discovered otherwise?
+media?** 
+
+3D desing was a completly different experience to the flat desings that required a whole new approach and mindset to design in order to create a harmonious visual. I will be honest and say i found 3D design very challenging and quickly learnt my strengths and interest are definetlly in 2D design (so far). For me it was the maths and dimensions that threw me off and ideas and concepts in my head were so much harder to create as there were a whole new set of rules and maths involved to be accurate and effective. i also felt more limited as i couldnt really create the things i wanted myself and had to rely on models made by other people. I will say though i loved all the textures and shapes i could play with and the choices felt unlimited, you could really get specific with the textures you download for each place. 
+
+**What was the role of the virtual camera in your project, and how was it similar to and
+different from the role of the camera in Assignment 1?** 
+
+The role of the camera in A3 was strictly first person and was an immersive experience directly putting you into this world. For A1 however the camera could exist with the absense of pressence and could simply just be a tool of showing/communicating a visual to the viewer.  
+
+
+**How did you use sound in your project, and how was this similar to and different from your
+use of sound in Assignments 1 and 2?** 
+
+I used sound in the same way as i did in assignment 1 by enhancing the visual story and elements to evoke matching emotions. 
+
+**How did you unify the different elements of your virtual environment under a certain theme
+or concept? How did your theme or concept evolve over the project’s development?** 
+
+I unified my project by giving it a moral or a title being *'Identity'* and parting it into 3 seperate segments/stages that would then be linked and connected through my use of visual and audio elements. The personal story being told helped unify and make sense of the work and i found whenever i was feeling stuck i would just think about how i can relate the overall story and its meaning to my project. During my final plays of the work i was a bit uncertain that the player would know how to navigate the space so i added the element of a **'yellow brick road'** directly refrencing the Wizard of Oz and how dorathy is on a path of exploration and finds her community/friends on the way. 
+
+
+**What did you discover through the process of play testing that you wouldn’t have
+discovered otherwise?** 
+
+Through play testing i discovered that scalling is everything and so so important. The size and shape of the assets can either make or break eachothers effectiveness. For example, i wanted the airplanes at the start to be a big standout so i made them really big, but then the hill it was on looked off and so i made the hill bigger but then that threw the look and feel of the floor and enviornment around it off and it just kept multiplying.  
+
+
+
 
 What kind of key words do you want the user to associate with the aesthetics of your webpage?
      - Who is the target audience?
