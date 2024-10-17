@@ -120,8 +120,7 @@ discovered otherwise?**
 
 Through play testing i discovered that scalling is everything and so so important. The size and shape of the assets can either make or break eachothers effectiveness. For example, i wanted the airplanes at the start to be a big standout so i made them really big, but then the hill it was on looked off and so i made the hill bigger but then that threw the look and feel of the floor and enviornment around it off and it just kept multiplying.  
 
-
-
+--- 
 
 What kind of key words do you want the user to associate with the aesthetics of your webpage?
      - Who is the target audience?
