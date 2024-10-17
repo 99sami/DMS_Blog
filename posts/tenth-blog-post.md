@@ -44,8 +44,10 @@ Aesthetically i chose to keep the action shots more close up to intensify the rh
 
 **Assignment 2 - Graphic Icons**
 --- 
-• How would you summarise your idea behind the suite of icons, and why did you choose
-the theme that you did?
+**How would you summarise your idea behind the suite of icons, and why did you choose
+the theme that you did?**
+
+*'Mental health/ Wellness Retreat'*
 
 • Did you iterate through a series of approaches before settling on one? What changed
 across those iterations, and why did you choose the one that you ended up with?
