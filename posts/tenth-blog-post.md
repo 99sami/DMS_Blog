@@ -47,23 +47,40 @@ Aesthetically i chose to keep the action shots more close up to intensify the rh
 **How would you summarise your idea behind the suite of icons, and why did you choose
 the theme that you did?**
 
-*'Mental health/ Wellness Retreat'*
+*'Mental health/ Wellness Retreat'* is how i would summarise my choice. I chose to do the theme of growth, and ive always been intrested in the growth that comes from sollitude and being in nature. Ive never been on one of these progams but i would be intrested in the idea of it. 
 
-• Did you iterate through a series of approaches before settling on one? What changed
-across those iterations, and why did you choose the one that you ended up with?
+**Did you iterate through a series of approaches before settling on one? What changed
+across those iterations, and why did you choose the one that you ended up with?** 
 
-• How did you translate your thumbnail sketches into the final flat designs in Illustrator?
-Was anything lost in that translation, or gained?
+I was tossing up between themeing the work around growth/nature or growth/community. I guess it relates back to my video work as for me i find growth in these two spaces -- quiet reflective time amongst nature and social, interactive connections with community. Both have so much value and growth within them! This is how i stay leveled. 
+I ended up choosing growth/nature because when it came down to aesthetics ans visuals i felt like i could do more with that idea in terms of icon design and colours etc etc.   
 
-• How did you use colour to create a sense of unity and visual interest in the icons? Why
-did you choose the palette that you did?
+**How did you translate your thumbnail sketches into the final flat designs in Illustrator?
+Was anything lost in that translation, or gained?** 
 
-• How did the elements and principles of sound that you used in your audio design
-correspond to the elements and principles of design that you used in your visual design?
+The designs translated pretty smoothly into illustrator as i kept them shapes simple, however i did have to cut a lot of my options and ideas as i knew recreating them to the same level and style on illustrator would be challenging and out of my skill range. So i was a bit limited in design choices but not by too much. I would say a bit of a more complex structure and appearance was lost but a cleanliness and cohesivness was gained during the transition. 
+
+**How did you use colour to create a sense of unity and visual interest in the icons? Why
+did you choose the palette that you did?** 
+
+I used colour to connect my visuals to my idea / theme and bring life into the desiigns. I chose natrual colours you would find in a beauitful green space/parkland like sage greens and blues. I kept the colours muted and also used brushtrokes that were soft and faded to create a feeling of calm. I didnt want anything too bold or structured.
+For the swap icons i decided to use different colours to show a change in the swap and almost feel like an achievment, however upon reflection i do wish i just kept it all to the same green and blue colour palette. 
+
+**How did the elements and principles of sound that you used in your audio design
+correspond to the elements and principles of design that you used in your visual design?** 
+
+Well most of my swaps were based off encouraging and motivational relations to help you 'level up' e.g. 
+**Create healthy, long lasting habbits.**
+*apple (swap to) shield* 
+& 
+**Effective detoxification and growth.** 
+*raindrop (swap to) plant*  
+
+The apple to shield is meant to encourage if you eat healthy you've become healthy and have a shield/good immunity and the raindrop to plant is like if you do the detox you can grow new sprouts etc etc... you get the idea right. So for my audio i tried to keep it either relating directly to the sound of the icon or used something rewarding like *glittery* sounds or *dings/bells*, sort of like the sounds you hear in video games when you level up or unlock something new.  
 
 
-• How did you translate the prompt that you chose from an abstract idea to a set of
-concrete visual designs?
+**How did you translate the prompt that you chose from an abstract idea to a set of
+concrete visual designs?** 
 
 
 Assignment 3 - Virtual Environment
