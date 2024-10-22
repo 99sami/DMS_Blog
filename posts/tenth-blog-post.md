@@ -47,24 +47,23 @@ Aesthetically i chose to keep the action shots more close up to intensify the rh
 **How would you summarise your idea behind the suite of icons, and why did you choose
 the theme that you did?**
 
-*'Mental health/ Wellness Retreat'* is how i would summarise my choice. I chose to do the theme of growth, and ive always been intrested in the growth that comes from sollitude and being in nature. Ive never been on one of these progams but i would be intrested in the idea of it. 
+'Mental health/ Wellness Retreat' is how i would summarise my choice. I chose to do the theme of growth, and I've always been interested in the growth that comes from solitude and being in nature. I've never been on one of these programs but I would be interested in the idea of it. 
 
 **Did you iterate through a series of approaches before settling on one? What changed
 across those iterations, and why did you choose the one that you ended up with?** 
 
-I was tossing up between themeing the work around growth/nature or growth/community. I guess it relates back to my video work as for me i find growth in these two spaces -- quiet reflective time amongst nature and social, interactive connections with community. Both have so much value and growth within them! This is how i stay leveled. 
-I ended up choosing growth/nature because when it came down to aesthetics ans visuals i felt like i could do more with that idea in terms of icon design and colours etc etc.   
+I was tossing up between theming the work around growth/nature or growth/community. I guess it relates back to my video work as for me i find growth in these two spaces -- quiet reflective time amongst nature and social, interactive connections with community. Both have so much value and growth within them! This is how i stay leveled. I ended up choosing growth/nature because when it came down to aesthetics and visuals i felt like i could do more with that idea in terms of icon design and colours etc etc.
+   
 
 **How did you translate your thumbnail sketches into the final flat designs in Illustrator?
 Was anything lost in that translation, or gained?** 
 
-The designs translated pretty smoothly into illustrator as i kept them shapes simple, however i did have to cut a lot of my options and ideas as i knew recreating them to the same level and style on illustrator would be challenging and out of my skill range. So i was a bit limited in design choices but not by too much. I would say a bit of a more complex structure and appearance was lost but a cleanliness and cohesivness was gained during the transition. 
+The designs translated pretty smoothly into illustrator as I kept their shapes simple, however I did have to cut a lot of my options and ideas as I knew recreating them to the same level and style on illustrator would be challenging and out of my skill range. So I was a bit limited in design choices but not by too much. I would say a bit of a more complex structure and appearance was lost but a cleanliness and cohesiveness was gained during the transition.
 
 **How did you use colour to create a sense of unity and visual interest in the icons? Why
 did you choose the palette that you did?** 
 
-I used colour to connect my visuals to my idea / theme and bring life into the desiigns. I chose natrual colours you would find in a beauitful green space/parkland like sage greens and blues. I kept the colours muted and also used brushtrokes that were soft and faded to create a feeling of calm. I didnt want anything too bold or structured.
-For the swap icons i decided to use different colours to show a change in the swap and almost feel like an achievment, however upon reflection i do wish i just kept it all to the same green and blue colour palette. 
+I used colour to connect my visuals to my idea / theme and bring life into the designs. I chose natural colours you would find in a beautiful green space/parkland like sage greens and blues. I kept the colours muted and also used brushstrokes that were soft and faded to create a feeling of calm. I didn't want anything too bold or structured. For the swap icons I decided to use different colours to show a change in the swap and almost feel like an achievement, however upon reflection i do wish i just kept it all to the same green and blue colour palette.
 
 **How did the elements and principles of sound that you used in your audio design
 correspond to the elements and principles of design that you used in your visual design?** 
@@ -90,18 +89,19 @@ I started by grounding a concept and basing it off that and then sourced inspira
 **How important was a working prototype to your design process? What did it offer that
 process?** 
 
-Prototypes are so important for 3D as its one thing designing and building the world but actually playing it to an effective manner is a whole different stage of the work that requires you to constantly add things, play and test and then go back to edit it. 
+Prototypes are so important for 3D as its one thing designing and building the world but actually playing it in an effective manner is a whole different stage of the work that requires you to constantly add things, play and test and then go back to edit it.
 
 **How did your experience of designing and producing a three-dimensional environment
 differ from your experience of designing and producing a project in two-dimensional
 media?** 
 
-3D desing was a completly different experience to the flat desings that required a whole new approach and mindset to design in order to create a harmonious visual. I will be honest and say i found 3D design very challenging and quickly learnt my strengths and interest are definetlly in 2D design (so far). For me it was the maths and dimensions that threw me off and ideas and concepts in my head were so much harder to create as there were a whole new set of rules and maths involved to be accurate and effective. i also felt more limited as i couldnt really create the things i wanted myself and had to rely on models made by other people. I will say though i loved all the textures and shapes i could play with and the choices felt unlimited, you could really get specific with the textures you download for each place. 
+3D design was a completely different experience to the flat designs that required a whole new approach and mindset to design in order to create a harmonious visual. I will be honest and say I found 3D design very challenging and quickly learnt my strengths and interest are definitely in 2D design (so far). For me it was the math and dimensions that threw me off and ideas and concepts in my head were so much harder to create as there were a whole new set of rules and math involved to be accurate and effective. I also felt more limited as I couldn't really create the things I wanted myself and had to rely on models made by other people. I will say though i loved all the textures and shapes i could play with and the choices felt unlimited, you could really get specific with the textures you download for each place.
+
 
 **What was the role of the virtual camera in your project, and how was it similar to and
 different from the role of the camera in Assignment 1?** 
 
-The role of the camera in A3 was strictly first person and was an immersive experience directly putting you into this world. For A1 however the camera could exist with the absense of pressence and could simply just be a tool of showing/communicating a visual to the viewer.  
+The role of the camera in A3 was strictly first person and was an immersive experience directly putting you into this world. For A1 however the camera could exist with the absence of presence and could simply just be a tool of showing/communicating a visual to the viewer.
 
 
 **How did you use sound in your project, and how was this similar to and different from your
@@ -112,13 +112,13 @@ I used sound in the same way as i did in assignment 1 by enhancing the visual st
 **How did you unify the different elements of your virtual environment under a certain theme
 or concept? How did your theme or concept evolve over the project’s development?** 
 
-I unified my project by giving it a moral or a title being *'Identity'* and parting it into 3 seperate segments/stages that would then be linked and connected through my use of visual and audio elements. The personal story being told helped unify and make sense of the work and i found whenever i was feeling stuck i would just think about how i can relate the overall story and its meaning to my project. During my final plays of the work i was a bit uncertain that the player would know how to navigate the space so i added the element of a **'yellow brick road'** directly refrencing the Wizard of Oz and how dorathy is on a path of exploration and finds her community/friends on the way. 
+I unified my project by giving it a moral or a title being 'Identity' and parting it into 3 separate segments/stages that would then be linked and connected through my use of visual and audio elements. The personal story being told helped unify and make sense of the work and I found whenever I was feeling stuck I would just think about how I can relate the overall story and its meaning to my project. During my final parts of the work I was a bit uncertain that the player would know how to navigate the space so I added the element of a 'yellow brick road' directly referencing the Wizard of Oz and how dorathy is on a path of exploration and finds her community/friends on the way.
 
 
 **What did you discover through the process of play testing that you wouldn’t have
 discovered otherwise?** 
 
-Through play testing i discovered that scalling is everything and so so important. The size and shape of the assets can either make or break eachothers effectiveness. For example, i wanted the airplanes at the start to be a big standout so i made them really big, but then the hill it was on looked off and so i made the hill bigger but then that threw the look and feel of the floor and enviornment around it off and it just kept multiplying.  
+Through play testing I discovered that scaling is everything and so so important. The size and shape of the assets can either make or break each other's effectiveness. For example, i wanted the airplanes at the start to be a big standout so i made them really big, but then the hill it was on looked off and so i made the hill bigger but then that threw the look and feel of the floor and environment around it off and it just kept multiplying.
 
 --- 
 
