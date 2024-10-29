@@ -1,5 +1,5 @@
 ---
-title: Week 10 - Session 2
+title: Week 11 - Session 1
 published_at: 2024-10-14
 snippet: Figma and wireframes
 disable_html_sanitization: true
